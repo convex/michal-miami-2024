@@ -10,5 +10,5 @@ See Convex docs at https://docs.convex.dev/home
 ## Setting up
 
 ```
-npm create convex@latest -t react-vite-shadcn
+npx create-convex@latest -t react-vite-shadcn
 ```
